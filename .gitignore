@@ -1,0 +1,12 @@
+# KiCad backups and caches
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+*.bak
+fp-info-cache
+~*.lck
+# Fab output: keep only the latest release, zipped archives are not tracked
+*.zip
+.env
+data/raw/

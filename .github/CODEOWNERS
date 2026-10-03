@@ -1,0 +1,7 @@
+# CODEOWNERS. Org teams, not individual accounts.
+* @IEEE-USF-EXO/pid-spoon-leads
+/schematics/ @IEEE-USF-EXO/pid-spoon-electrical
+/pcb/ @IEEE-USF-EXO/pid-spoon-electrical
+/power/ @IEEE-USF-EXO/pid-spoon-electrical
+/sensors/ @IEEE-USF-EXO/pid-spoon-electrical
+/docs/ @IEEE-USF-EXO/pid-spoon-electrical
