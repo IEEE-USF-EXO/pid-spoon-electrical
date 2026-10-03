@@ -4,7 +4,7 @@
 
 Electrical work for PID Spoon: schematics, PCB, power, and sensor hardware.
 
-The project charter, interface index and decision record are in [pid-spoon-hub](https://github.com/IEEE-USF-EXO/pid-spoon-hub).
+Shared interfaces and decisions: see pid-spoon-interfaces.
 
 ## Scope
 
@@ -26,7 +26,7 @@ Team lead: @luislopezrondon. Org team: `pid-spoon-electrical`.
 | `sensors/` | TODO: fill at kickoff |
 | `docs/` | Reviewed notes, test summaries |
 
-The folder map is provisional. It follows the structure used by the matching EXO repo and will be adjusted once `docs/CHARTER.md` in pid-spoon-hub defines the scope.
+The folder map is provisional. It follows the structure used by the matching EXO repo.
 
 ## How to contribute
 
@@ -55,6 +55,5 @@ PID Spoon organization board: to be added once the board is created.
 
 ## Related repos
 
-- https://github.com/IEEE-USF-EXO/pid-spoon-hub
 - https://github.com/IEEE-USF-EXO/pid-spoon-controls
 - https://github.com/IEEE-USF-EXO/pid-spoon-mechanical
