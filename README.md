@@ -45,7 +45,7 @@ The folder map is provisional. It follows the structure used by the matching EXO
 
 ## Drive folder
 
-[Electrical](https://drive.google.com/drive/folders/1MDIWP-ry0RUsLW2GeBKGCK5gjD0mlJqo)
+[Electrical](https://drive.google.com/drive/folders/16DcGIMgwtcuZrYI7QaQJs6lVmQ6q1_ZE)
 
 Raw files stay in Drive. A short summary goes in `docs/` and names the Drive file and the date. If the link says you need access, use Request access or ask a Project Lead.
 
